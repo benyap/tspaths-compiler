@@ -49,8 +49,8 @@
     "fast-glob": "3.3.2"
   },
   "devDependencies": {
-    "@commitlint/cli": "19.6.0",
-    "@commitlint/config-conventional": "19.6.0",
+    "@commitlint/cli": "19.7.1",
+    "@commitlint/config-conventional": "19.7.1",
     "@release-it/bumper": "6.0.1",
     "@release-it/conventional-changelog": "9.0.3",
     "@types/node": "22.10.1",
